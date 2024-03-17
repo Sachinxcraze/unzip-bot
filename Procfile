@@ -1,1 +1,1 @@
-unzipper:bash start.py
+unzipper: bash start.sh
